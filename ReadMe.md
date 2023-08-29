@@ -1,4 +1,4 @@
-Tableau Dashboards from various data sources
+Tableau Dashboards
 
 ## AirBnB Seattle
 <img src="AirBnB-Tableau-Dashboard/Dashboard.png" alt="airbnb-dashboard"/>
